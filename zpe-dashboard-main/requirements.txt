@@ -1,0 +1,7 @@
+streamlit
+pandas
+polars
+plotly
+numpy
+python-dotenv
+comtradeapicall
