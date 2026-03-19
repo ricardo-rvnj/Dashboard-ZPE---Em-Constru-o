@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+
+# Ambiente
+.env
+
+# Dados gerados
+resources/*.csv
+
+# Streamlit cache
+.streamlit/
+
+# VSCode
+.vscode/
